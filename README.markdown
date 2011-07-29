@@ -8,3 +8,4 @@ Pré-requis
 * PHP 5.3 ou supérieur
 * Zend Framework 1.11 ou supérieur
 
+ce truc ne fonctionne jamais sérieux --'
